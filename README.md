@@ -1,2 +1,2 @@
-# aufgabe1.
+# aufgabe1
 AgD erste Übung 
